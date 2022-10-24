@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;400&display=swap');
+
+h1{
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Silkscreen', cursive;
+}
+a{
+    text-decoration: none;
+    color: rgb(101, 6, 226);
+    
+}
+h4{
+    font-family: 'Silkscreen', cursive;
+    text-align: center;
+}
+h6{
+    font-family: 'Inconsolata', monospace;
+}
+h2{
+    font-family: 'Inconsolata', monospace;
+}
+div{
+    text-align:right;
+}
+p:hover{
+    font-family: 'Inconsolata', monospace;
+    font-size: x-large;
+    transition: 0,5;
+
+}
+p{
+    transition: 0,5;
+    font-family: 'Inconsolata', monospace;
+}
